@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/fismatos/AnotherAnimations/media/videos/scene/1080p60/partial_movie_files/TTR/3977891868_4098085603_223132457.mp4'
+file 'file:D:/Coding/Python/fismatos/AnotherAnimations/media/videos/scene/1080p60/partial_movie_files/TTR/2852726489_1141282389_2425285906.mp4'
+file 'file:D:/Coding/Python/fismatos/AnotherAnimations/media/videos/scene/1080p60/partial_movie_files/TTR/2852726489_375997421_652398026.mp4'

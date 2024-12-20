@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/TypingIntegrationEquation/3977891868_3112703488_223132457.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/TypingIntegrationEquation/2852726489_1141282389_1847675646.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/TypingIntegrationEquation/2852726489_4220865183_1342136658.mp4'

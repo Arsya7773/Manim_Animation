@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/3977891868_2140427666_223132457.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_884029761_1280892674.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_3707851498_3504401527.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_1141282389_1765895945.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_796704716_1974376069.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_3890345977_551411175.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_2118413340_3914217014.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_3915077810_2315454675.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_1141282389_3899299818.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/First_Animation/media/videos/script/1080p60/partial_movie_files/InertiaDemo/2852726489_2096795774_1221297128.mp4'

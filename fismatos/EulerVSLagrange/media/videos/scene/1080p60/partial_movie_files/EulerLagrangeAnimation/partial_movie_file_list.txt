@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/fismatos/EulerVSLagrange/media/videos/scene/1080p60/partial_movie_files/EulerLagrangeAnimation/3977891868_217875975_223132457.mp4'
+file 'file:D:/Coding/Python/fismatos/EulerVSLagrange/media/videos/scene/1080p60/partial_movie_files/EulerLagrangeAnimation/2852726489_3571085937_1292809287.mp4'
+file 'file:D:/Coding/Python/fismatos/EulerVSLagrange/media/videos/scene/1080p60/partial_movie_files/EulerLagrangeAnimation/2852726489_2897959136_2526264964.mp4'
+file 'file:D:/Coding/Python/fismatos/EulerVSLagrange/media/videos/scene/1080p60/partial_movie_files/EulerLagrangeAnimation/2852726489_1704852926_1700903739.mp4'

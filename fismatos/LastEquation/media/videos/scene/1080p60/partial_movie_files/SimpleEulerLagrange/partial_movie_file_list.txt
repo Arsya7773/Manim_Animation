@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/3977891868_2643145798_223132457.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_3890345977_1654599477.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_4197008042_4278294804.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_1141282389_3868154454.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_3888033158_721211723.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_3890345977_3349646565.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_2702277960_3406193445.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_3890345977_362047770.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_860361915_3902828931.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_1141282389_103223382.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_3921137361_4164840607.mp4'
+file 'file:D:/Coding/Python/fismatos/LastEquation/media/videos/scene/1080p60/partial_movie_files/SimpleEulerLagrange/2852726489_3890345977_2718691004.mp4'

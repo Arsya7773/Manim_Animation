@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/3977891868_156157224_223132457.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_3890345977_1524956166.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_1345790914_160075386.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_3890345977_1463363336.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_2463300926_778598508.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_1141282389_838371882.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_226950447_4216763147.mp4'
+file 'file:D:/Coding/Python/fismatos/IntegrationAnimation/media/videos/scene/1080p60/partial_movie_files/LineIntegration/2852726489_3890345977_4004411027.mp4'

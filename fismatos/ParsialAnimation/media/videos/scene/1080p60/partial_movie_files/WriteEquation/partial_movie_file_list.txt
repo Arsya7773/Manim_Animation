@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/fismatos/ParsialAnimation/media/videos/scene/1080p60/partial_movie_files/WriteEquation/3977891868_903345239_223132457.mp4'
+file 'file:D:/Coding/Python/fismatos/ParsialAnimation/media/videos/scene/1080p60/partial_movie_files/WriteEquation/2852726489_1959358871_716109963.mp4'
+file 'file:D:/Coding/Python/fismatos/ParsialAnimation/media/videos/scene/1080p60/partial_movie_files/WriteEquation/2852726489_399134556_339365289.mp4'
+file 'file:D:/Coding/Python/fismatos/ParsialAnimation/media/videos/scene/1080p60/partial_movie_files/WriteEquation/2852726489_1959358871_3918592026.mp4'
+file 'file:D:/Coding/Python/fismatos/ParsialAnimation/media/videos/scene/1080p60/partial_movie_files/WriteEquation/2852726489_3773469085_3815718690.mp4'
+file 'file:D:/Coding/Python/fismatos/ParsialAnimation/media/videos/scene/1080p60/partial_movie_files/WriteEquation/2852726489_1141282389_713521242.mp4'

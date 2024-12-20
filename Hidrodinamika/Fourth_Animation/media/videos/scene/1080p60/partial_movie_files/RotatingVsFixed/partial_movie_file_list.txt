@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/Hidrodinamika/Fourth_Animation/media/videos/scene/1080p60/partial_movie_files/RotatingVsFixed/3977891868_228028204_223132457.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/Fourth_Animation/media/videos/scene/1080p60/partial_movie_files/RotatingVsFixed/2852726489_1867174720_1513009654.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/Fourth_Animation/media/videos/scene/1080p60/partial_movie_files/RotatingVsFixed/2852726489_1969911017_2221719717.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/Fourth_Animation/media/videos/scene/1080p60/partial_movie_files/RotatingVsFixed/2852726489_2080415990_1798390242.mp4'
+file 'file:D:/Coding/Python/Hidrodinamika/Fourth_Animation/media/videos/scene/1080p60/partial_movie_files/RotatingVsFixed/2852726489_1141282389_2326998402.mp4'
