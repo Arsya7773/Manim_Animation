@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/manim/actionsanimation/media/videos/scene/1080p60/partial_movie_files/MovingObject/3977891868_3238774021_1572894138.mp4'
+file 'file:D:/Coding/Python/manim/actionsanimation/media/videos/scene/1080p60/partial_movie_files/MovingObject/2852726489_2090666266_1572894138.mp4'
+file 'file:D:/Coding/Python/manim/actionsanimation/media/videos/scene/1080p60/partial_movie_files/MovingObject/2852726489_2214734301_1572894138.mp4'
+file 'file:D:/Coding/Python/manim/actionsanimation/media/videos/scene/1080p60/partial_movie_files/MovingObject/2852726489_2090666266_1572894138.mp4'

@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding/Python/manim/actionsanimation/media/videos/scene/1080p60/partial_movie_files/TypingActionEquation/3977891868_3078959642_223132457.mp4'
+file 'file:D:/Coding/Python/manim/actionsanimation/media/videos/scene/1080p60/partial_movie_files/TypingActionEquation/2852726489_1141282389_2972043019.mp4'
